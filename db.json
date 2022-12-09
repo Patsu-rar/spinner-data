@@ -47,5 +47,10 @@
     }
   ],
   "winners": [
+    {
+      "id": 0,
+      "spinningID": 1,
+      "winSectionID": 4
+    }
   ]
 }

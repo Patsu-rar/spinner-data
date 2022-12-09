@@ -1,5 +1,5 @@
 {
-  spinnings: [
+  "spinnings": [
     {
       "id": 1,
       "sections": [
@@ -45,5 +45,8 @@
         },
       ]
     }
+  ]
+  
+  "winners": [
   ]
 }

@@ -5,43 +5,43 @@
       "sections": [
         {
           "id": 1,
-          "title": "1 free Mozzarella Sticks",
-          "color": "#34a660"
+          "text": "1 free Mozzarella Sticks",
+          "fillStyle": "#34a660"
         },
         {
           "id": 2,
-          "title": "1 free burger",
-          "color": "#cc231e"
+          "text": "1 free burger",
+          "fillStyle": "#cc231e"
         },
         {
           "id": 3,
-          "title": "1 free fries",
-          "color": "#ffffff"
+          "text": "1 free fries",
+          "fillStyle": "#ffffff"
         },
         {
           "id": 4,
-          "title": "10 points",
-          "color": "#235e6e"
+          "text": "10 points",
+          "fillStyle": "#235e6e"
         },
         {
           "id": 5,
-          "title": "1 free Mozzarella Sticks",
-          "color": "#34a660"
+          "text": "1 free Mozzarella Sticks",
+          "fillStyle": "#34a660"
         },
         {
           "id": 6,
-          "title": "1 free burger",
-          "color": "#cc231e"
+          "text": "1 free burger",
+          "fillStyle": "#cc231e"
         },
         {
           "id": 7,
-          "title": "1 free fries",
-          "color": "#ffffff"
+          "text": "1 free fries",
+          "fillStyle": "#ffffff"
         },
         {
           "id": 8,
-          "title": "10 points",
-          "color": "#235e6e"
+          "text": "10 points",
+          "fillStyle": "#235e6e"
         }
       ]
     }
